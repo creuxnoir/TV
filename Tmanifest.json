@@ -1,0 +1,1 @@
+{"id":"org.testname","version":"1.0.0","name":"TEST NAME","description":"aciklama.","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["m3uplay_"],"icon":"https://raw.githubusercontent.com/creuxnoir/TV/main/logo.png","catalogs":[{"id":"m3uplay_cat","name":"Test Name","type":"tv"}]}
