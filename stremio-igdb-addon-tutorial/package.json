@@ -1,0 +1,13 @@
+{
+	"name": "igdb-stremio-addon",
+	"version": "0.0.1",
+	"description": "Stremio Add-on for IGDB",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"stremio-addon-sdk": "^1.0.3",
+		"igdb-api-node": "^3.1.7"
+	}
+}
